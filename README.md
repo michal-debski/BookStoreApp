@@ -1,2 +1,2 @@
-# LibraryManagementApp
-An application that allows you to manage library
+# BookStoreApp
+An application that allows you to manage book store
